@@ -4,7 +4,7 @@
     "checkJs": false,
     "module": "commonjs",
     "strict": true,
-    "outDir": "lib",
+    "outDir": "dist",
     "removeComments": true,
     "allowSyntheticDefaultImports": true,
     "target": "es2017",
